@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
+    "host": "ds135714.mlab.com",
+    "port": 35714,
     "url": "",
-    "database": "missingpeople",
-    "password": "",
+    "database": "missing-people",
+    "password": "Thesislia123!",
     "name": "mongoDS",
-    "user": "",
+    "user": "mispeo",
     "connector": "mongodb"
   }
 }
